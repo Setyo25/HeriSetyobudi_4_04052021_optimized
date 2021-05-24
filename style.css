@@ -68,9 +68,11 @@ blockquote{
     margin-bottom: 0px;
     padding-bottom: 0px;
     border: 0px;
+    color: #575757;
 }
 #quote_author{
     font-size: 14px;
+    color: #575757;
 }
 #testimony{
     font-size: 26px;
@@ -798,7 +800,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFF5D4!important;
 }
 
 .btn-atomic-tangerine {
