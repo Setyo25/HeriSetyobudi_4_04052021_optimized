@@ -143,9 +143,16 @@ blockquote{
 }
 .dark{
     color :#691B06;
-    font-size: 18px;
+    font-size: 22Px;
     font-weight: 500;
 }
+
+.icontext{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
