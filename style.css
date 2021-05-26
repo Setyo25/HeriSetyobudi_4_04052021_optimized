@@ -141,7 +141,11 @@ blockquote{
 .wish{
     font-size: 20px;
 }
-
+.dark{
+    color :#691B06;
+    font-size: 18px;
+    font-weight: 500;
+}
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
