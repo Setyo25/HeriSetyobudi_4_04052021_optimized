@@ -142,7 +142,7 @@ blockquote{
     font-size: 20px;
 }
 .dark{
-    color :#691B06;
+    color :#000000;
     font-size: 22Px;
     font-weight: 500;
 }
@@ -151,6 +151,11 @@ blockquote{
     font-size: 24px;
     font-weight: 600;
 }
+.black{
+    color:#000000
+}
+
+
 
 
 .bg-center,
@@ -789,7 +794,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #000000!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -1129,6 +1134,12 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+    }
+    .boximage{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
     }
 }
 
@@ -1794,7 +1805,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #000000!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -2134,6 +2145,12 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+    }
+    .boximage{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
     }
 }
 
