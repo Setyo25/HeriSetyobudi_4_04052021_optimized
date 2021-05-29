@@ -146,6 +146,11 @@ blockquote{
     font-size: 22Px;
     font-weight: 500;
 }
+.darker{
+    color:#000000;
+    font-size: 24px;
+    font-weight: 500;
+}
 
 .black{
     color: #000000;
@@ -153,6 +158,9 @@ blockquote{
 .icontext{
     font-size: 24px;
     font-weight: 600;
+}
+.text-invitation{
+    font-size: 19px;
 }
 
 
